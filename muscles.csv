@@ -1,0 +1,71 @@
+muscle-name,origin,insertion,region
+epicranius (frontal belly),epicranial aponeurosis,skin of eyebrow,scalp
+epicranius (occipital belly),occipital bone,epicranial aponeurosis,scalp
+corrugator supercilii,frontal bone,skin of eyebrow,face
+orbicularis oculi,frontal bone,eyelid,face
+zygomaticus major,zygomatic bone,corner of mouth,face
+zygomaticus minor,zygomatic bone,corner of mouth,face
+buccinator,maxilla,orbicularis oris,face
+platysma,pectoralis major,mandible,face
+masseter,zygomatic bone,mandible,face
+temporalis,temporal bone,mandible,face
+pterygoids,sphenoid bone,mandible,face
+sternocleidomastoid,sternum,temporal bone,neck
+scalenes,vertebrae (cervical),ribs,neck
+splenius,ligamentum nuchae,temporal bone,neck
+quadratus lumborum,ilium,vertebrae (lumbar),thorax
+external intercostals,ribs,ribs,thorax
+internal intercostals,ribs,ribs,thorax
+diaphragm,ribs,central tendon,thorax
+rectus abdominis,pubis,sternum,abdomen
+external oblique,ribs,ilium,abdomen
+internal oblique,ilium,ribs,abdomen
+transversus abdominis,ilium,pubis,abdomen
+pectoralis minor,ribs,scapula,thorax
+serratus anterior,ribs,scapula,thorax
+levator scapulae,vertebrae (cervical),scapula,thorax
+rhomboid major,vertebrae (thoracic),scapula,thorax
+rhomboid minor,vertebrae (thoracic),scapula,thorax
+trapezius,occipital bone,scapula,thorax
+pectoralis major,sternum,humerus,shoulder
+deltoid,scapula,humerus,shoulder
+latissimus dorsi,ribs,humerus,shoulder
+subscapularis,scapula,humerus,shoulder
+supraspinatus,scapula,humerus,shoulder
+infraspinatus,scapula,humerus,shoulder
+teres minor,scapula,humerus,shoulder
+teres major,scapula,humerus,shoulder
+coracobrachialis,scapula,humerus,shoulder
+triceps brachii,scapula,ulna,arm
+anconeus,humerus,ulna,arm
+brachialis,humerus,ulna,arm
+biceps brachii,scapula,radius,arm
+brachioradialis,humerus,radius,arm
+flexor carpi radialis,humerus,metacarpals,arm
+palmaris longus,humerus,palmar aponeurosis,arm
+flexor carpi ulnaris,humerus,carpals,arm
+extensor carpi radialis longus,humerus,metacarpals,arm
+extensor carpi radialis brevis,humerus,metacarpals,arm
+extensor carpi ulnaris,humerus,metacarpals,arm
+iliopsoas iliacus,ilium,femur,leg
+sartorius,ilium,tibia,leg
+adductor magnus,ischium,femur,leg
+adductor longus,pubis,femur,leg
+gracilis,pubis,tibia,leg
+rectus femoris,ilium,patella,leg
+vastus lateralis,femur,patella,leg
+vastus medialis,femur,patella,leg
+vastus intermedius,femur,patella,leg
+tensor fascia latae,ilium,iliotibial band,leg
+gluteus maximus,ilium,femur,leg
+gluteus medius,ilium,femur,leg
+gluteus minimus,ilium,femur,leg
+biceps femoris,ischium,tibia,leg
+semimembranosus,ischium,tibia,leg
+semitendinosus,ischium,tibia,leg
+tibialis anterior,tibia,metatarsals,leg
+tibialis posterior,TF interosseus membrane,tarsals,leg
+fibularis longus,fibula,tarsals,leg
+fibularis brevis,fibula,metatarsals,leg
+gastrocnemius,femur,tarsals,leg
+soleus,TF interosseus membrane,tarsals,leg
