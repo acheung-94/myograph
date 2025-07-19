@@ -79,6 +79,7 @@ d3.csv("data/muscles.csv").then(
       .force("collide", d3.forceCollide().radius(d => {
         // Provide padding for the rect around the text (approximate)
         // You can tweak the 8 to adjust spacing
+        console.log(d.count)
         return 8 + (d.count * 4) + 10;
       }));
   
@@ -116,7 +117,7 @@ d3.csv("data/muscles.csv").then(
     .attr("dominant-baseline", "middle")
     .attr("stroke", "black")
     .attr("stroke-width", 0.3);
-  
+
     // Append rects sized to text bbox + padding
     node.insert("rect", "text")
       .attr("rx", 8)
